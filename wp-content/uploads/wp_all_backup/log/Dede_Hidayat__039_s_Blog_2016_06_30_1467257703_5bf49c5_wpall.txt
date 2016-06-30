@@ -1,0 +1,19 @@
+
+#--------------------------------------------------------
+
+ Database Table Backup
+#--------------------------------------------------------
+
+ wp_commentmeta(24)
+ wp_comments(24)
+ wp_links(8)
+ wp_options(186)
+ wp_postmeta(95)
+ wp_posts(85)
+ wp_term_relationships(51)
+ wp_term_taxonomy(24)
+ wp_termmeta(0)
+ wp_terms(24)
+ wp_usermeta(23)
+ wp_users(1)
+#--------------------------------------------------------
